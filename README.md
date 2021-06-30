@@ -1,4 +1,4 @@
-# devbot-source-codehttps://discord.com/developers/applications/
+# devbot-source-code
 This is the code for devbot, feel free to use it! Check the <a href="#Usage">usage section</a> for how to use the bot.
 
 # Usage
